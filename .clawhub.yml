@@ -1,0 +1,18 @@
+name: ling-shu-skills
+version: 1.1.0
+description: 灵枢 Agent 设计师技能包 - 企业 AI Agent 体系规划与设计方案
+author: xuehaizhong
+skills:
+  - name: ling-shu-agent-designer
+    version: 1.1.0
+    description: 灵枢主技能 - Agent 设计师工作流与规范
+    entry: ling-shu-agent-designer/SKILL.md
+  - name: enterprise-agent-planner
+    version: 1.0.0
+    description: 企业 Agent 体系规划器 - 输入企业介绍自动输出规划方案
+    entry: enterprise-agent-planner/SKILL.md
+tags:
+  - agent-design
+  - enterprise
+  - planning
+  - multi-agent
